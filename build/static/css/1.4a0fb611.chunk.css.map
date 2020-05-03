@@ -1,0 +1,1 @@
+{"version":3,"sources":["SelectCategory.css"],"names":[],"mappings":"AAAA,6CACI,oBACJ","file":"1.4a0fb611.chunk.css","sourcesContent":["#kt_select2_category_list_container > .select2 {\n    width: 100%!important;\n}"]}
