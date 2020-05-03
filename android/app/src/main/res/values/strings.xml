@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Refill</string>
+    <string name="facebook_app_id">995130004174984</string>
+    <string name="fb_login_protocol_scheme">fb995130004174984</string>
+</resources>
