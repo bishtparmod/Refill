@@ -9,7 +9,7 @@
     "jquery": "^3.4.1",
     "md5": "^2.2.1",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-image-crop": "^8.4.0",
